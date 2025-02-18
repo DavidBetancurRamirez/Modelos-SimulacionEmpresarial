@@ -1,0 +1,13 @@
+# Ignorar entorno virtual
+myse_env/
+
+# Ignorar archivos de caché y configuración
+__pycache__/
+*.pyc
+*.pyo
+
+# Git profesor
+SimulationEIA/
+
+# Statfit
+statfit/
