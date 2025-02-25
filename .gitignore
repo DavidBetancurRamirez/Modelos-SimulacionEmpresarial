@@ -11,3 +11,14 @@ SimulationEIA/
 
 # Statfit
 statfit/
+
+# Presentaciones
+*.pptx
+*.ppt
+
+# PDFs
+*.pdf
+
+# Documentos
+*.docx
+*.doc
